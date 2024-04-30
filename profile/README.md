@@ -10,6 +10,6 @@ Check out our list of resources for students at our [SRL](https://github.com/Hul
 
 ### Support and Help
 
-** Contributions **
+**Contributions**
 
 > Any help is avaible on the **[Robotic Societies Discord server](https://discord.com/invite/8FZZygJpcm)** if you have any questions about contributing to the society.
