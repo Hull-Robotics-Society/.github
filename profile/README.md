@@ -14,3 +14,8 @@ GitHub stats:<br>
 ![Github stars](https://img.shields.io/github/stars/Hull-Robotics-Society?style=social) ![GitHub followers](https://img.shields.io/github/followers/Hull-Robotics-Society?style=social)
 
 Youtube channel: [youtube.com/@hulluniroboticssociety913](https://www.youtube.com/@hulluniroboticssociety913)<br>![YouTube Channel Views](https://img.shields.io/youtube/channel/views/) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/)
+
+
+Discord server: [Join](https://discord.gg/DaNcZb7zvd)<br>
+[![](https://dcbadge.vercel.app/api/server/DaNcZb7zvd)](https://discord.gg/DaNcZb7zvd)<br>
+[![Discord](https://img.shields.io/discord/1072498136284667955)](https://discord.gg/DaNcZb7zvd)
