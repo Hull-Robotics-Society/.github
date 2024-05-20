@@ -18,4 +18,4 @@ Youtube channel: [youtube.com/@hulluniroboticssociety913](https://www.youtube.co
 
 Discord server: [Join](https://discord.gg/DaNcZb7zvd)<br>
 [![](https://dcbadge.vercel.app/api/server/DaNcZb7zvd)](https://discord.gg/DaNcZb7zvd)<br>
-[![Discord](https://img.shields.io/discord/1072498136284667955)](https://discord.gg/DaNcZb7zvd)
+[![Discord](https://img.shields.io/discord/744914400065880114)](https://discord.gg/DaNcZb7zvd)
