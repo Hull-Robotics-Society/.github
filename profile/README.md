@@ -13,4 +13,4 @@ For any questions, send us a e-mail at uniofhullroboticsoceity@gmail.com.
 GitHub stats:<br>
 ![Github stars](https://img.shields.io/github/stars/Hull-Robotics-Society?style=social) ![GitHub followers](https://img.shields.io/github/followers/Hull-Robotics-Society?style=social)
 
-Youtube channel: [youtube.com/@hulluniroboticssociety913](https://www.youtube.com/@hulluniroboticssociety913)<br>![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp3sDRwVkbm7b2M-2qwf5aQ) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp3sDRwVkbm7b2M-2qwf5aQ)
+Youtube channel: [youtube.com/@hulluniroboticssociety913](https://www.youtube.com/@hulluniroboticssociety913)<br>![YouTube Channel Views](https://img.shields.io/youtube/channel/views/) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/)
